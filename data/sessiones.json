@@ -27,35 +27,958 @@
         }],
         "day":"Tuesday, 11\/16\/2010"
         },
-        
         {
             "id" : 1, 
-            "title" : "test", 
+            "title" : "Registro", 
             "url" : "test", 
             "description" : "test", 
-            "day" : "Tuesday, 11\/16\/2010", 
-            "time" : "2010-11-16T14:25:00", 
-            "end_time" : "6:00 pm", 
-            "pretty_time" : "3:30 pm", 
-            "date" : "11\/16\/2012", 
-            "topics" : "ccc", 
-            "room" : "test", 
-            "proposal_type" : "333",
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "7:00 pm", 
+            "date" : "04/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
             "speakers" : [
-                {
-                    "id" : 1, 
-                    "first_name" : "ddd",
-                    "last_name" : "ff",
-                    "name" : "gg",
-                    "position" : "",
-                    "affiliation" : "",
-                    "bio" : "",
-                    "twitter" : "",
-                    "url" : "",
-                    "photo" : ""
-                }
+                
+            ]
+        },
+        {
+            "id" : 2, 
+            "title" : "Bienvenida (Stand-up meeting)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:30 pm", 
+            "pretty_time" : "7:15 pm", 
+            "date" : "04/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 3, 
+            "title" : "Manejo de versiones, TDD, Integracion Continua ... para SysAdmins", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "8:30 pm", 
+            "pretty_time" : "7:30 pm", 
+            "date" : "04/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 4, 
+            "title" : "Refactoring to Patterns(Workshop)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "9:30 pm", 
+            "pretty_time" : "8:30 pm", 
+            "date" : "04/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 5, 
+            "title" : "Refactoring to Patterns (Workshop)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:30 pm", 
+            "pretty_time" : "9:30 pm", 
+            "date" : "04/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 6, 
+            "title" : "Registro", 
+            "url" : "test", 
+            "description" : "test", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "7:00 pm", 
+            "date" : "05/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 7, 
+            "title" : "Bienvenida (Stand-up meeting)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:30 pm", 
+            "pretty_time" : "7:15 pm", 
+            "date" : "05/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 8, 
+            "title" : "Experiencias de crear un proyecto open source: gmaps.js", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "8:30 pm", 
+            "pretty_time" : "7:30 pm", 
+            "date" : "05/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 9, 
+            "title" : "mi coctel preferido con Python", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "9:30 pm", 
+            "pretty_time" : "8:30 pm", 
+            "date" : "05/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 10, 
+            "title" : "CMMI y Scrum: como no morir en el intento", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:30 pm", 
+            "pretty_time" : "9:30 pm", 
+            "date" : "05/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 11, 
+            "title" : "Registro", 
+            "url" : "test", 
+            "description" : "test", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "7:00 pm", 
+            "date" : "06/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 12, 
+            "title" : "Bienvenida (Stand-up meeting)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:30 pm", 
+            "pretty_time" : "7:15 pm", 
+            "date" : "06/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 13, 
+            "title" : "Desarrollo multiplataforma para smartphones con Phonegap", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "8:30 pm", 
+            "pretty_time" : "7:30 pm", 
+            "date" : "06/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 14, 
+            "title" : "Hibernate, buenas y mejores practicas", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "9:30 pm", 
+            "pretty_time" : "8:30 pm", 
+            "date" : "06/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 15, 
+            "title" : "Introducción a RubyMotion (Ruby para iOS)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:30 pm", 
+            "pretty_time" : "9:30 pm", 
+            "date" : "06/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 16, 
+            "title" : "Registro", 
+            "url" : "test", 
+            "description" : "test", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "7:00 pm", 
+            "date" : "07/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 17, 
+            "title" : "Bienvenida (Stand-up meeting)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:30 pm", 
+            "pretty_time" : "7:15 pm", 
+            "date" : "07/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 18, 
+            "title" : "Web Crawling con Scrapy", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "8:30 pm", 
+            "pretty_time" : "7:30 pm", 
+            "date" : "07/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 19, 
+            "title" : "Clean Code para Principiantes", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "9:30 pm", 
+            "pretty_time" : "8:30 pm", 
+            "date" : "07/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 20, 
+            "title" : "S.O.L.I.D.: ¿Cómo lo aplico en mi código?", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:30 pm", 
+            "pretty_time" : "9:30 pm", 
+            "date" : "07/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 21, 
+            "title" : "Registro", 
+            "url" : "test", 
+            "description" : "test", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "7:00 pm", 
+            "date" : "08/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 22, 
+            "title" : "Bienvenida (Stand-up meeting)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:30 pm", 
+            "pretty_time" : "7:15 pm", 
+            "date" : "08/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 23, 
+            "title" : "I have an Army. We have Rails", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "8:30 pm", 
+            "pretty_time" : "7:30 pm", 
+            "date" : "08/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 24, 
+            "title" : "Aprendiendo sobre Drupal, ¿Qué puedo hacer con esto?", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "9:30 pm", 
+            "pretty_time" : "8:30 pm", 
+            "date" : "08/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 25, 
+            "title" : "Aprendiendo sobre Drupal, ¿Qué puedo hacer con esto?", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:30 pm", 
+            "pretty_time" : "9:30 pm", 
+            "date" : "08/06/2012", 
+            "topics" : "", 
+            "room" : "IBEROTEC", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 26, 
+            "title" : "Registro", 
+            "url" : "test", 
+            "description" : "test", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "9:00 am", 
+            "pretty_time" : "8:00 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - TODOS LOS SALONES", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 27, 
+            "title" : "Bienvenida (Stand-up meeting)", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "9:30 am", 
+            "pretty_time" : "9:00 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - TODOS LOS SALONES", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 28, 
+            "title" : "Una primera vista a TDD", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:15 am", 
+            "pretty_time" : "9:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 29, 
+            "title" : "Coding Dojo Multi Lenguaje", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:15 am", 
+            "pretty_time" : "9:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 30, 
+            "title" : "FreeRun: Jugando a programar", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "10:15 am", 
+            "pretty_time" : "9:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 31, 
+            "title" : "Manejo de proyectos para dispositivos móviles: tablets y smartphones", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "11:15 am", 
+            "pretty_time" : "10:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 32, 
+            "title" : "Coding Dojo Multi Lenguaje", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "11:15 am", 
+            "pretty_time" : "10:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 33, 
+            "title" : "Primeros Pasos con Android", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "11:15 am", 
+            "pretty_time" : "10:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 34, 
+            "title" : "Integracion Continua: Algo de cada dia", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "12:15 Pm", 
+            "pretty_time" : "11:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 35, 
+            "title" : "Cómo convertirse en Frontend Dev sin morir en el intento", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "12:15 pm", 
+            "pretty_time" : "11:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 36, 
+            "title" : "I used to be a typical developer. Then I took a Pull Request to the knee", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "12:15 pm", 
+            "pretty_time" : "11:30 am", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 37, 
+            "title" : "Boot to Gecko (B2G): la web es la plataforma", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "1:15 pm", 
+            "pretty_time" : "12:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 38, 
+            "title" : "Mozilla Marketplace: Tus aplicaciones para la Web", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "1:15 pm", 
+            "pretty_time" : "12:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 39, 
+            "title" : "Django scaling", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "1:15 pm", 
+            "pretty_time" : "12:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 40, 
+            "title" : "Almuerzo", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "2:15 pm", 
+            "pretty_time" : "1:15 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - TODOS LOS SALONES", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 41, 
+            "title" : "El Futuro de las Aplicaciones Web: Single Page Applications", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "3:15 pm", 
+            "pretty_time" : "2:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 42, 
+            "title" : "Connascence: una breve introducción. O como volver un código genial en 8 métricas", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "3:15 pm", 
+            "pretty_time" : "2:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 43, 
+            "title" : "Por definir", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "3:15 pm", 
+            "pretty_time" : "2:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 44, 
+            "title" : "El Futuro de las Aplicaciones Web: Single Page Applications", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "4:15 pm", 
+            "pretty_time" : "3:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 45, 
+            "title" : "Disenando Arquitecturas Hardware en PHP", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "4:15 pm", 
+            "pretty_time" : "3:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 46, 
+            "title" : "Construyendo Aplicaciones Seguras con Spring Security", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "4:15 pm", 
+            "pretty_time" : "3:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 47, 
+            "title" : "Python Debugging", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "5:15 pm", 
+            "pretty_time" : "4:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 48, 
+            "title" : "Programando Android en Eclipse y Adobe Air", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "5:15 pm", 
+            "pretty_time" : "4:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 49, 
+            "title" : "Construyendo Aplicaciones Seguras con Spring Security", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "5:15 pm", 
+            "pretty_time" : "4:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 50, 
+            "title" : "Ecosistema de tecnologías Google - Propuestas, iniciativas y proyectos para la región Perú", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "6:15 pm", 
+            "pretty_time" : "5:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 51, 
+            "title" : "Construyendo Aplicaciones Seguras con Spring Security", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "6:15 pm", 
+            "pretty_time" : "5:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 52, 
+            "title" : "Utilizando JQuery y HTML5 para aplicaciones javascript basadas en MVC", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "6:15 pm", 
+            "pretty_time" : "5:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 53, 
+            "title" : "Por definir", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "6:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK1", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 54, 
+            "title" : "De unit testing a tdd con junit", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "6:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK2", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 55, 
+            "title" : "Startup desde las trincheras", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "7:15 pm", 
+            "pretty_time" : "6:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - SALON TRACK3", 
+            "proposal_type" : "",
+            "speakers" : [
+                
+            ]
+        },
+        {
+            "id" : 56, 
+            "title" : "Clausura", 
+            "url" : "", 
+            "description" : "", 
+            "day" : "", 
+            "time" : "", 
+            "end_time" : "", 
+            "pretty_time" : "7:30 pm", 
+            "date" : "09/06/2012", 
+            "topics" : "", 
+            "room" : "SAN MARCOS - TODOS LOS SALONES", 
+            "proposal_type" : "",
+            "speakers" : [
+                
             ]
         }
     ],
-    "proposal_ids":[60981]
+    "proposal_ids":[60981,1,2,3,4,5]
     }

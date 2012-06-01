@@ -16,16 +16,17 @@ oreilly.views.SessionList = Ext.extend(Ext.Panel, {
                     return r.get('pretty_time');
                 },
                 proxy: {
-                    type: 'ajax',
+                    type: 'scripttag',
                     //url : 'https://en.oreilly.com/' + this.shortUrl + '/public/mobile_app/all',
-                    url : 'data/sessiones.json',
+                    url : 'http://jobdayz.com/data_app_codepassion/sessiones.json',
+                    //url : 'data/sessiones.json',
                     reader: {
                         type: 'json',
                         root: 'sessiones'
                     }
                 },
                 listeners: {
-                    load: { fn: this.initializeData, scope: this }
+                    load: {fn: this.initializeData, scope: this}
                 }
             })
         });
@@ -49,10 +50,10 @@ oreilly.views.SessionList = Ext.extend(Ext.Panel, {
             }]
             }],
             listeners: {
-                activate: { fn: function(){
+                activate: {fn: function(){
                     this.list.getSelectionModel().deselectAll();
                     Ext.repaint();
-                }, scope: this }
+                }, scope: this}
             }
         })
         
@@ -71,7 +72,6 @@ oreilly.views.SessionList = Ext.extend(Ext.Panel, {
                 year = currentTime.getFullYear();
             
             var dateIndex = this.dateButtons.items.findIndex('dateData', month+'/'+day+'/'+year);
-            
             if (dateIndex !== -1) this.startDateIndex = dateIndex;
             
             this.dateButtons.setPressed(this.startDateIndex);
@@ -111,13 +111,13 @@ oreilly.views.SessionList = Ext.extend(Ext.Panel, {
             for (i = 0; i < length; i++) {
                 buttons.push({
                     text: dates[i].substr(0, 5),
+                    value : dates[i],
                     dateData: dates[i],
                     index: i,
                     scope: this,
                     handler: this.changeDate
                 });
             }
-            
             this.dateButtons = new Ext.SegmentedButton({
                 items: buttons,
                 defaults: { flex: 1 },
@@ -128,7 +128,7 @@ oreilly.views.SessionList = Ext.extend(Ext.Panel, {
                 xtype: 'toolbar',
                 ui: 'gray',
                 items: this.dateButtons,
-                layout: { pack: 'center' }
+                layout: {pack: 'center'}
             });
             
             // Take off the spinner
