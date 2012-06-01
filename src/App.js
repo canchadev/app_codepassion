@@ -50,12 +50,12 @@ oreilly.App = Ext.extend(Ext.TabPanel, {
                 coords: this.gmapCoords,
                 mapText: this.gmapText,
                 permLink: this.gmapLink,
-            }, {
+            }/*, {
                 title: 'About',
                 xtype: 'aboutlist',
                 iconCls: 'info',
                 pages: this.aboutPages
-            }];
+            }*/];
         } else {
             this.on('render', function(){
                 this.el.mask('No internet connection.');
