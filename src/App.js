@@ -49,7 +49,7 @@ oreilly.App = Ext.extend(Ext.TabPanel, {
                 xtype: 'location',
                 coords: this.gmapCoords,
                 mapText: this.gmapText,
-                permLink: this.gmapLink,
+                permLink: this.gmapLink
             }/*, {
                 title: 'About',
                 xtype: 'aboutlist',
